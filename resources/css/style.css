@@ -1,0 +1,19 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.show{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+
+.bg-careers{ background-color: chocolate;}
+
+.bg-nav{ background-color: rgb(214, 100, 0);}
+
+.bg-dashboard{ background-color: brown;}
+
+.text-articoli{ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+.img-resized { width: auto; height: 250px; }
+
+.bg-dashbord-redattore { background-color: aquamarine;
+font-family: Georgia, 'Times New Roman', Times, serif;}
